@@ -9,7 +9,7 @@ $Email="";
 $err_Email="";
 $Password="";
 $err_Password="";
-$ConfirmPassword=htmlspecialchars($_POST['Confirm_Password']);
+$ConfirmPassword="";
 $err_ConfirmPassword="";
 $has_err=false;
  #validation
